@@ -1,1 +1,1 @@
-# rust_essential
+# rust course
